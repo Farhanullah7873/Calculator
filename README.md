@@ -34,7 +34,7 @@ It supports basic arithmetic operations and a clean, responsive UI with a skelet
 
 ## 🔗 **Live Demo**
 
-👉 [View Live Demo](https://yourusername.github.io/advanced-calculator)
+👉 [View Live Demo](https://farhanullah7873.github.io/Calculator/)
 
 2️⃣ Open `index.html` in your browser.
 
